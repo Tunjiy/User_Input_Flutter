@@ -1,6 +1,6 @@
 # User_Input
 
-A new Flutter project created with FlutLab - https://flutlab.io
+A flutter project that takes and output user input created with FlutLab - https://flutlab.io
 
 ## Getting Started
 
